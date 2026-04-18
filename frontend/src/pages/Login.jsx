@@ -69,7 +69,7 @@ function Login() {
 
                 {/* ← ADD THIS: Admin Panel button */}
                 <button
-                    onClick={() => window.open('http://localhost:5174', '_blank')}
+                    onClick={() => window.open('https://onecart-1-37eg.onrender.com/', '_blank')}
                     className='bg-[#6060f5] hover:bg-[#4a4ad4] text-white text-[13px] font-semibold px-[16px] py-[8px] rounded-lg transition-all'
                 >
                     Admin Panel ↗
